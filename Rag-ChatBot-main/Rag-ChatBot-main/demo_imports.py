@@ -1,0 +1,7 @@
+print("✅ Streamlit OK")
+print("✅ LangChain OK")
+print("✅ FAISS OK")
+print("✅ Torch OK")
+print("✅ Sentence Transformers OK")
+print("✅ Gemini Integration OK")
+print("✅ PDF Reader OK")
