@@ -28,9 +28,13 @@ Python, LangChain, FAISS, llama.cpp, Streamlit, Docker
 ├── data/  
 
 ├── ingest.py        # chunking + embedding + index creation
+
 ├── app.py           # Streamlit chat UI
+
 ├── Dockerfile
+
 ├── requirements.txt
+
 └── README.md
 
 
