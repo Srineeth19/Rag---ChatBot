@@ -25,7 +25,7 @@ Python, LangChain, FAISS, llama.cpp, Streamlit, Docker
 
 ## Project Structure
 
-├── data/            # source documents
+├── data/      
 ├── ingest.py        # chunking + embedding + index creation
 ├── app.py           # Streamlit chat UI
 ├── Dockerfile
