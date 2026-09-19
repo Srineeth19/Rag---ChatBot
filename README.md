@@ -1,5 +1,4 @@
 # Rag---ChatBot
-# RAG ChatBot
 
 A Retrieval-Augmented Generation (RAG) chatbot that answers questions over your own
 documents. Instead of relying only on what a language model memorized, it first retrieves
